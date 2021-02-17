@@ -3,5 +3,5 @@ $hourlyrate	= 5.75;
 	$taxrate22 = 0.78;
 	$gross = $hourlyrate * $hoursperweek;
 	$net = $gross * $taxrate22;
-	echo $gross;
-	//echo $net;
+	//echo $gross;
+	echo $net;
