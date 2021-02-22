@@ -11,4 +11,3 @@
   echo " Index 4 = $marks[4] <br/>";
   echo " Index 5 = $marks[5] <br/>"; 
 ?>
-© 2021 GitHub, Inc.
