@@ -4,7 +4,7 @@
   $topModules[2] = "Programming 2";
   $topModules[3] = "OOAD";
   $topModules[4] = "Software Engineering";
-  $topModules[5] = "Network Systems";
+  $topModules[5] = "Open Source System";
   $topModules[6] = "Web Application";
 
   for($count = 0;$count < 7;$count++)
