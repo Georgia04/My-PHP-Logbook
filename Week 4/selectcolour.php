@@ -20,4 +20,4 @@
         <input type="submit" value="Buy"/>
       </form>
    </body>
-</html>	
+</html>
