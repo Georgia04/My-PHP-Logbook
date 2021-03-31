@@ -3,13 +3,13 @@
     <body>
         <?php session_start() ?>
         <?php 
-            $_SESSION['selqty'] = $_POST['selqty'];
+            $_SESSION['quantityValue'] = $_POST['selqty'];
             
             print_r($_SESSION);
         ?>
         <form action="selectcolour.php" method="post">
             Select size of the widgets you are ordering
-            <select name="size">
+            <select name="selsize">
                 <option value="Small" value="15.75">Small £15.75</option>
                 <option value="Medium" value="16.75">Medium £16.75</option>
                 <option value="Large" value="17.75">Large £17.75</option>
