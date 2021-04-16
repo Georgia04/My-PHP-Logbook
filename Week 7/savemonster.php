@@ -1,6 +1,6 @@
 <?php
   
-$link = mysqli_connect("localhost", "root", "", "db2_21800490");
+$link = mysqli_connect("localhost", "root", "", "db1_21800490");
 
 // Obtain the file sent to the server within the response.
 $image = $_FILES['monsterimage']['tmp_name']; 

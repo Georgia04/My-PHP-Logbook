@@ -1,7 +1,7 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST')
 {
-$link = mysqli_connect("localhost", "root", "", "db2_21800490");
+$link = mysqli_connect("localhost", "root", "", "db1_21800490");
     if (!$link) 
     {
     die("Connection failed: " . mysqli_connect_error());
